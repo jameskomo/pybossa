@@ -1,6 +1,6 @@
 [program:rq-worker]
-command=/home/pybossa/pybossa/env/bin/python app_context_rqworker.py scheduled_jobs super high medium low email maintenance
-directory=/home/pybossa/pybossa
+command=/home/komo/Documents/pybossa/pybossa/env/bin/python app_context_rqworker.py scheduled_jobs super high medium low email maintenance
+directory=/home/komo/Documents/pybossa/pybossa
 autostart=true
 autorestart=true
 priority=915

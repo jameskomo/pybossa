@@ -1,6 +1,6 @@
 [program:pybossa]
-command=/home/pybossa/pybossa/env/bin/uwsgi /home/pybossa/pybossa/pybossa.ini
-directory=/home/pybossa/pybossa
+command=/home/komo/Documents/pybossa/pybossa/env/bin/uwsgi /home/pybossa/pybossa/pybossa.ini
+directory=/home/komo/Documents/pybossa/pybossa
 autostart=true
 autorestart=true
 priority=920
