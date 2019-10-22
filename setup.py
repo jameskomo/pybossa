@@ -65,7 +65,7 @@ requirements = [
     "wtforms-components>=0.10.3, <0.10.4",
     "yacryptopan",
     "Faker",
-    "Werkzeug>=0.14.1, <0.14.2",
+    "Werkzeug>=0.14.1, <0.15.4",
     "keyring>=13.2.1, <13.2.2",
     "iiif-prezi>=0.2.9, <1.0.0"
 ]
