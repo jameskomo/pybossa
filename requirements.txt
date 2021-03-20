@@ -56,7 +56,7 @@ ipaddress==1.0.22
 iso8601==0.1.12
 isort==4.3.21
 itsdangerous==0.24
-Jinja2==2.10.1
+Jinja2==2.11.3
 jsmin==2.2.2
 keyring==13.2.1
 keystoneauth1==3.17.1
