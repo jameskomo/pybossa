@@ -101,7 +101,7 @@ pybossa-onesignal==1.1
 pycountry==19.8.18
 pycparser==2.19
 pycryptodome==3.9.0
-PyJWT==1.7.1
+PyJWT==2.4.0
 PyLD==1.0.5
 pyldap==3.0.0
 pylint==1.9.5
